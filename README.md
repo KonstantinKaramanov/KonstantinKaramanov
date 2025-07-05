@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Konstantin
-- 🌱 I’m currently learning JavaScript
+
 
 
 <!---
